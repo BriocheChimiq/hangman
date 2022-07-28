@@ -1,2 +1,2 @@
 # hangman
-very cool gaming python work
+cool hangman project
